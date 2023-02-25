@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  text-align: center;
+  width: 80%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fafafa;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* .main {
+  max-width: 1300px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+} */
+
+#image {
+  text-align: center;
+  width: 100%;
+  max-width: auto;
+  height: auto;
+}
